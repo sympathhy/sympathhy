@@ -2,6 +2,7 @@ def text_lower(text):
     return text.lower()
 
 def length_text(text):
+    print("Вызов функции length_text")
     return len(text)
 
 
